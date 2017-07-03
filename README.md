@@ -1,0 +1,4 @@
+﻿The purpose of my thesis is to implement a chat application, that uses end-to-end encryption for communication.
+This means that you encrypt data on your own device. Only you hold the encryption keys.
+The application makes possible the connection of new users and the listing of connected users. You can also define a new chatroom for two connected users and exchange messages in this room.
+The chat application enables real-time, bidirectional, event based communication by using Socket.io. I use Diffie-Hellman protocol for the key exchange protocol. Thereby I generate a public and a private key for a user. The sender requests the receivers public key and encrypts the message with it. For message decryption it is necessary to have the private key, to which only the receiver has access. The message encryption is made by using symmetric AES encryption.

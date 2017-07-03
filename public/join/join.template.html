@@ -1,0 +1,19 @@
+﻿<div layout="column" layout-align="center center" layout-fill="layout-fill">
+    <div class="join-box md-whiteframe-z2" layout="column">
+        <md-toolbar>
+            <h2 class="md-toolbar-tools"><span>Join Chat</span></h2>
+        </md-toolbar>
+        <md-content class="md-padding" layout="column">
+            <md-input-container>
+                <label>Username</label>
+                <input type="text"
+                       ng-model="name"
+                       maxlength="50" />
+            </md-input-container>
+            <div layout="row" layou-align="center-center" class="padding-join-button">
+                <md-button class="md-raised md-primary flex"
+                           ng-click="join()">Join</md-button>
+            </div>
+        </md-content>
+    </div>
+</div>

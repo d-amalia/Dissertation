@@ -1,0 +1,91 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "endcrypt",
+        "scope": null,
+        "escapedName": "endcrypt",
+        "name": "endcrypt",
+        "rawSpec": "",
+        "spec": "latest",
+        "type": "tag"
+      },
+      "C:\\Users\\Daroczi Amalia\\Documents\\Visual Studio 2015\\Projects\\ThesisApp\\ThesisApp"
+    ]
+  ],
+  "_from": "endcrypt@latest",
+  "_id": "endcrypt@1.2.3",
+  "_inCache": true,
+  "_location": "/endcrypt",
+  "_nodeVersion": "6.7.0",
+  "_npmOperationalInternal": {
+    "host": "packages-18-east.internal.npmjs.com",
+    "tmp": "tmp/endcrypt-1.2.3.tgz_1478078015172_0.4472626179922372"
+  },
+  "_npmUser": {
+    "name": "andreasur",
+    "email": "urbanski.andreas@gmail.com"
+  },
+  "_npmVersion": "3.10.9",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "endcrypt",
+    "scope": null,
+    "escapedName": "endcrypt",
+    "name": "endcrypt",
+    "rawSpec": "",
+    "spec": "latest",
+    "type": "tag"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/endcrypt/-/endcrypt-1.2.3.tgz",
+  "_shasum": "00147eae9322d48312e704441ee75390469f5f0b",
+  "_shrinkwrap": null,
+  "_spec": "endcrypt",
+  "_where": "C:\\Users\\Daroczi Amalia\\Documents\\Visual Studio 2015\\Projects\\ThesisApp\\ThesisApp",
+  "author": {
+    "name": "Andreas Urbanski",
+    "email": "urbanski.andreas@gmail.com"
+  },
+  "bugs": {
+    "url": "https://github.com/andreasur/endcrypt/issues"
+  },
+  "dependencies": {},
+  "description": "Easy end-to-end encryption via Diffie-Hellman key-exchange and AES256 encryption",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "shasum": "00147eae9322d48312e704441ee75390469f5f0b",
+    "tarball": "https://registry.npmjs.org/endcrypt/-/endcrypt-1.2.3.tgz"
+  },
+  "keywords": [
+    "diffie-hellman",
+    "end-to-end",
+    "end",
+    "to",
+    "aes",
+    "aes256",
+    "encrypt",
+    "decrypt",
+    "key",
+    "exchange"
+  ],
+  "license": "MIT",
+  "main": "endcrypt.js",
+  "maintainers": [
+    {
+      "name": "andreasur",
+      "email": "andreas.urbanski@taitounited.fi"
+    }
+  ],
+  "name": "endcrypt",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.2.3"
+}

@@ -1,0 +1,64 @@
+C:\Users\Daroczi Amalia\Documents\Visual Studio 2015\Projects\ThesisApp\ThesisApp\bin\roslyn\csc.exe
+C:\Users\Daroczi Amalia\Documents\Visual Studio 2015\Projects\ThesisApp\ThesisApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Daroczi Amalia\Documents\Visual Studio 2015\Projects\ThesisApp\ThesisApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Daroczi Amalia\Documents\Visual Studio 2015\Projects\ThesisApp\ThesisApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Daroczi Amalia\Documents\Visual Studio 2015\Projects\ThesisApp\ThesisApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Daroczi Amalia\Documents\Visual Studio 2015\Projects\ThesisApp\ThesisApp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Daroczi Amalia\Documents\Visual Studio 2015\Projects\ThesisApp\ThesisApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Daroczi Amalia\Documents\Visual Studio 2015\Projects\ThesisApp\ThesisApp\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Daroczi Amalia\Documents\Visual Studio 2015\Projects\ThesisApp\ThesisApp\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Daroczi Amalia\Documents\Visual Studio 2015\Projects\ThesisApp\ThesisApp\bin\roslyn\vbc.exe
+C:\Users\Daroczi Amalia\Documents\Visual Studio 2015\Projects\ThesisApp\ThesisApp\bin\roslyn\VBCSCompiler.exe
+C:\Users\Daroczi Amalia\Documents\Visual Studio 2015\Projects\ThesisApp\ThesisApp\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Daroczi Amalia\Documents\Visual Studio 2015\Projects\ThesisApp\ThesisApp\bin\ThesisApp.dll.config
+C:\Users\Daroczi Amalia\Documents\Visual Studio 2015\Projects\ThesisApp\ThesisApp\bin\ThesisApp.dll
+C:\Users\Daroczi Amalia\Documents\Visual Studio 2015\Projects\ThesisApp\ThesisApp\bin\ThesisApp.pdb
+C:\Users\Daroczi Amalia\Documents\Visual Studio 2015\Projects\ThesisApp\ThesisApp\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Daroczi Amalia\Documents\Visual Studio 2015\Projects\ThesisApp\ThesisApp\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Daroczi Amalia\Documents\Visual Studio 2015\Projects\ThesisApp\ThesisApp\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Daroczi Amalia\Documents\Visual Studio 2015\Projects\ThesisApp\ThesisApp\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Daroczi Amalia\Documents\Visual Studio 2015\Projects\ThesisApp\ThesisApp\bin\Microsoft.AI.Web.dll
+C:\Users\Daroczi Amalia\Documents\Visual Studio 2015\Projects\ThesisApp\ThesisApp\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Daroczi Amalia\Documents\Visual Studio 2015\Projects\ThesisApp\ThesisApp\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Daroczi Amalia\Documents\Visual Studio 2015\Projects\ThesisApp\ThesisApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Daroczi Amalia\Documents\Visual Studio 2015\Projects\ThesisApp\ThesisApp\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Daroczi Amalia\Documents\Visual Studio 2015\Projects\ThesisApp\ThesisApp\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Daroczi Amalia\Documents\Visual Studio 2015\Projects\ThesisApp\ThesisApp\bin\Microsoft.AI.Web.xml
+C:\Users\Daroczi Amalia\Documents\Visual Studio 2015\Projects\ThesisApp\ThesisApp\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Daroczi Amalia\Documents\Visual Studio 2015\Projects\ThesisApp\ThesisApp\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Daroczi Amalia\Documents\Visual Studio 2015\Projects\ThesisApp\ThesisApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Daroczi Amalia\Documents\Visual Studio 2015\Projects\ThesisApp\ThesisApp\obj\Debug\ThesisApp.csprojResolveAssemblyReference.cache
+C:\Users\Daroczi Amalia\Documents\Visual Studio 2015\Projects\ThesisApp\ThesisApp\obj\Debug\ThesisApp.dll
+C:\Users\Daroczi Amalia\Documents\Visual Studio 2015\Projects\ThesisApp\ThesisApp\obj\Debug\ThesisApp.pdb
+C:\Users\Daroczi Amalia\Documents\visual studio 2015\Projects\ThesisApp - Copy\ThesisApp\bin\roslyn\csc.exe
+C:\Users\Daroczi Amalia\Documents\visual studio 2015\Projects\ThesisApp - Copy\ThesisApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Daroczi Amalia\Documents\visual studio 2015\Projects\ThesisApp - Copy\ThesisApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Daroczi Amalia\Documents\visual studio 2015\Projects\ThesisApp - Copy\ThesisApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Daroczi Amalia\Documents\visual studio 2015\Projects\ThesisApp - Copy\ThesisApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Daroczi Amalia\Documents\visual studio 2015\Projects\ThesisApp - Copy\ThesisApp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Daroczi Amalia\Documents\visual studio 2015\Projects\ThesisApp - Copy\ThesisApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Daroczi Amalia\Documents\visual studio 2015\Projects\ThesisApp - Copy\ThesisApp\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Daroczi Amalia\Documents\visual studio 2015\Projects\ThesisApp - Copy\ThesisApp\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Daroczi Amalia\Documents\visual studio 2015\Projects\ThesisApp - Copy\ThesisApp\bin\roslyn\vbc.exe
+C:\Users\Daroczi Amalia\Documents\visual studio 2015\Projects\ThesisApp - Copy\ThesisApp\bin\roslyn\VBCSCompiler.exe
+C:\Users\Daroczi Amalia\Documents\visual studio 2015\Projects\ThesisApp - Copy\ThesisApp\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Daroczi Amalia\Documents\visual studio 2015\Projects\ThesisApp - Copy\ThesisApp\bin\ThesisApp.dll.config
+C:\Users\Daroczi Amalia\Documents\visual studio 2015\Projects\ThesisApp - Copy\ThesisApp\bin\ThesisApp.dll
+C:\Users\Daroczi Amalia\Documents\visual studio 2015\Projects\ThesisApp - Copy\ThesisApp\bin\ThesisApp.pdb
+C:\Users\Daroczi Amalia\Documents\visual studio 2015\Projects\ThesisApp - Copy\ThesisApp\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Daroczi Amalia\Documents\visual studio 2015\Projects\ThesisApp - Copy\ThesisApp\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Daroczi Amalia\Documents\visual studio 2015\Projects\ThesisApp - Copy\ThesisApp\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Daroczi Amalia\Documents\visual studio 2015\Projects\ThesisApp - Copy\ThesisApp\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Daroczi Amalia\Documents\visual studio 2015\Projects\ThesisApp - Copy\ThesisApp\bin\Microsoft.AI.Web.dll
+C:\Users\Daroczi Amalia\Documents\visual studio 2015\Projects\ThesisApp - Copy\ThesisApp\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Daroczi Amalia\Documents\visual studio 2015\Projects\ThesisApp - Copy\ThesisApp\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Daroczi Amalia\Documents\visual studio 2015\Projects\ThesisApp - Copy\ThesisApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Daroczi Amalia\Documents\visual studio 2015\Projects\ThesisApp - Copy\ThesisApp\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Daroczi Amalia\Documents\visual studio 2015\Projects\ThesisApp - Copy\ThesisApp\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Daroczi Amalia\Documents\visual studio 2015\Projects\ThesisApp - Copy\ThesisApp\bin\Microsoft.AI.Web.xml
+C:\Users\Daroczi Amalia\Documents\visual studio 2015\Projects\ThesisApp - Copy\ThesisApp\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Daroczi Amalia\Documents\visual studio 2015\Projects\ThesisApp - Copy\ThesisApp\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Daroczi Amalia\Documents\visual studio 2015\Projects\ThesisApp - Copy\ThesisApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Daroczi Amalia\Documents\visual studio 2015\Projects\ThesisApp - Copy\ThesisApp\obj\Debug\ThesisApp.csprojResolveAssemblyReference.cache
+C:\Users\Daroczi Amalia\Documents\visual studio 2015\Projects\ThesisApp - Copy\ThesisApp\obj\Debug\ThesisApp.dll
+C:\Users\Daroczi Amalia\Documents\visual studio 2015\Projects\ThesisApp - Copy\ThesisApp\obj\Debug\ThesisApp.pdb

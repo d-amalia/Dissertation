@@ -1,0 +1,59 @@
+﻿<section layout="row" flex layout-fill>
+    <md-sidenav class="md-sidenav-left" md-component-id="left" md-is-locked-open="$mdMedia('gt-md')" md-whiteframe="4">
+        <md-toolbar class="md-theme-indigo">
+            <h1 class="md-toolbar-tools">Chat App</h1>
+        </md-toolbar>
+        <md-content>
+            <md-list flex>
+                <md-subheader class="md-no-sticky">Online users</md-subheader>
+                <md-list-item class="md-3-line" ng-repeat="user in users" ng-click="createPrivateRoom(user)">
+                    <img ng-src="{{user.image}}" class="md-avatar">
+                    <div class="md-list-item-text" layout="column">
+                        <h3>{{user.nickname}}</h3>
+                    </div>
+                </md-list-item>
+            </md-list>
+        </md-content>
+    </md-sidenav>
+
+    <md-content flex>
+        <md-toolbar class="md-theme-indigo">
+            <h1 class="md-toolbar-tools">Your nickname: {{mynickname}}</h1>
+        </md-toolbar>
+        <!-- Messages here -->
+        <p layout-padding> Click on somebody from the online users to start a private chat with</p>
+        <md-list flex>
+            <md-subheader class="md-no-sticky">Messages</md-subheader>
+            <md-list-item class="md-3-line" ng-repeat="message in messages" >
+                <div ng-if="mynickname===message.from"
+                     class="md-list-item-text message-content" layout="column" layout-align="end end">
+                    <span class="message-author">{{message.from}}</span>
+                    <p class="message-text">{{message.message}}</p>
+                    <span class="message-time">{{ message.time}}</span>
+                </div>
+                <div ng-if="!(mynickname===message.from)"
+                     class="md-list-item-text message-content" layout="column" layout-align="start start">
+                    <span class="message-author">{{message.from}}</span>
+                    <p class="message-text">{{message.message}}</p>
+                    <span class="message-time">{{ message.time}}</span>
+                </div>
+            </md-list-item>
+        </md-list>
+        <div flex></div>
+        <!--<div layout="row" layout-align="center end" layout-padding  ng-show="isPrivateChatEnabled">
+            <md-input-container class="md-block" layout-fill>
+                <label>Your message</label>
+                <textarea ng-model="message" md-maxlength="350" md-select-on-focus ng-keypress="sendMessage($event)" placeholder="Type a message..."></textarea>
+            </md-input-container>
+        </div>-->
+        <div layout="row" layout-align="end end" layout-padding class="message-input">
+            <md-input-container class="md-block">
+                <label>Your message</label>
+                <textarea ng-model="message" md-select-on-focus 
+                          ng-keypress="sendPrivateMessage($event)" 
+                          ng-disabled="isPrivateChatEnabled==false"
+                          placeholder="Type a message..."></textarea>
+            </md-input-container>
+        </div>
+    </md-content>
+</section>

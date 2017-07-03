@@ -1,0 +1,42 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title>Socket.io Chat</title>
+	<meta charset="utf-8"  content="width=device-width"/>
+    <link href="bower_components/angular-material/angular-material.css" rel="stylesheet" />
+    <link href="shared/scss/app.css" rel="stylesheet" />
+</head>
+<body ng-app="thesisApp">  
+    <!-- Loading specific views -->
+    <ng-view>
+         Loading ...
+    </ng-view>
+
+    <!-- Socket.io Client file -->
+    <script src="/socket.io/socket.io.js"></script>
+ 
+    <!-- Bower Components  -->
+    <script src="bower_components/jquery/dist/jquery.js"></script>
+    <script src="bower_components/angular/angular.js"></script>
+    <script src="bower_components/ng-lodash/build/ng-lodash.min.js"></script>
+    <script src="bower_components/angular-cookies/angular-cookies.js"></script>
+    <script src="bower_components/angular-route/angular-route.js"></script>
+    <script src="bower_components/angular-sanitize/angular-sanitize.js"></script>
+    <script src="bower_components/ngstorage/ngStorage.js"></script>
+    <script src="bower_components/angular-animate/angular-animate.js"></script>
+    <script src="bower_components/angular-aria/angular-aria.js"></script>
+    <script src="bower_components/angular-material/angular-material.js"></script>
+
+    <!-- Vendor Modules -->
+    <script src="shared/vendor/crypto-js/crypto-js.js"></script>
+    <script src="shared/vendor/endcrypt/endcrypt.js"></script>
+
+    <!-- thesisApp files -->
+    <script src="app.js"></script>
+    <script src="shared/routing/router.config.js"></script>
+    <script src="main/main.controller.js"></script>
+    <script src="join/join.controller.js"></script>
+    <script src="shared/services/socket.service.js"></script>
+
+</body>
+</html>
